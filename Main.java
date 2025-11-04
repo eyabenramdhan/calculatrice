@@ -6,6 +6,7 @@ System.out.println("a*b=" + Operation.multiplication(a,b));
 System.out.println("a-b=" + Operation.soustraction(a,b));
 System.out.println("a*b=" + Operation.addition(a,b));
 System.out.println("a/b=" + Operation.division(a,b));
+System.out.println("2/0=" + Operation.division(2,0));
 
 }
 }
