@@ -5,6 +5,7 @@ int b=3;
 System.out.println("a*b=" + Operation.multiplication(a,b));
 System.out.println("a-b=" + Operation.soustraction(a,b));
 System.out.println("a*b=" + Operation.addition(a,b));
+System.out.println("a/b=" + Operation.division(a,b));
 
 }
 }
